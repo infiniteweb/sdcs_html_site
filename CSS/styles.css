@@ -1,0 +1,27 @@
+/*-----------------------------tags----------------------------------------------*/
+
+h1 {padding-top: 35px;}
+h2 {padding-bottom: 15px;}
+
+
+/*-----------------------------fonts----------------------------------------------*/
+
+.logo-font-1 {font-size: 100px; font-family: "Allura", "Open Sans", "Helvetica Neue", "Helvetica", "sans-serif"; color: rgba(249,206,9,1); font-weight: normal;}
+.logo-font-2 {font-size: 50px; font-family: "Allura", "Open Sans", "Helvetica Neue", "Helvetica", "sans-serif"; color: rgba(249,206,9,1); font-weight: normal;}
+.happy-customers {font-size: 50px; font-family: "Kanit, sans-serif";}
+.happy-customers-text {font-size: 30px; font-family: "Kanit, sans-serif"; font-style: italic;}
+.happy-customers-tom {font-size: 20px; font-family: "Domine, serif"; }
+/*-----------------------------sections----------------------------------------------*/
+.section-1 {background-color: #A6A6A4; padding-bottom: 50px;}
+
+/*-----------------------------text----------------------------------------------*/
+.text-1 {text-align: left;}
+.list-1 {background-color: #A6A6A4;}
+/*-----------------------------images----------------------------------------------*/
+.insta-pic {margin-left: 123px;}
+.facebook-pic {margin-left: 450px;}
+
+/*-----------------------------navbar----------------------------------------------*/
+.navbar-brand{
+    color: yellow;
+}
